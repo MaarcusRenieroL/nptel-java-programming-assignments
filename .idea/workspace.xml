@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0205ed4-4629-4115-9975-29fa73296b98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nptel-java-programming-assignments.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week1/programmingAssignment1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week1/programmingAssignment2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week1/programmingAssignment3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week1/programmingAssignment4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week1/programmingAssignment5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2/programmingAssignment1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682428522986</updated>
-      <workItem from="1682428523985" duration="6128000" />
+      <workItem from="1682428523985" duration="6450000" />
     </task>
     <servers />
   </component>
