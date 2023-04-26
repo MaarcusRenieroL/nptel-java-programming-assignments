@@ -41,7 +41,7 @@ public class programmingAssignment5 {
                 output = (double) i * j;
             }
         }
-        
+
         // Print the output as stated in the question
         System.out.print(input + " = " + Math.round(output));
     }
